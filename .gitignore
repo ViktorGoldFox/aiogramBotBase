@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+database.db
+
 # Distribution / packaging
 .Python
 build/
@@ -99,6 +101,7 @@ celerybeat-schedule
 # Environments
 .env
 .venv
+.idea/
 env/
 venv/
 ENV/
